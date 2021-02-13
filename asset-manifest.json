@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Final-Kd/static/css/main.2d8c69d1.chunk.css",
-    "main.js": "/React-Final-Kd/static/js/main.0b75c288.chunk.js",
-    "main.js.map": "/React-Final-Kd/static/js/main.0b75c288.chunk.js.map",
+    "main.js": "/React-Final-Kd/static/js/main.540bb56a.chunk.js",
+    "main.js.map": "/React-Final-Kd/static/js/main.540bb56a.chunk.js.map",
     "runtime-main.js": "/React-Final-Kd/static/js/runtime-main.5e065889.js",
     "runtime-main.js.map": "/React-Final-Kd/static/js/runtime-main.5e065889.js.map",
-    "static/js/2.4128aec7.chunk.js": "/React-Final-Kd/static/js/2.4128aec7.chunk.js",
-    "static/js/2.4128aec7.chunk.js.map": "/React-Final-Kd/static/js/2.4128aec7.chunk.js.map",
+    "static/js/2.b945a17f.chunk.js": "/React-Final-Kd/static/js/2.b945a17f.chunk.js",
+    "static/js/2.b945a17f.chunk.js.map": "/React-Final-Kd/static/js/2.b945a17f.chunk.js.map",
     "index.html": "/React-Final-Kd/index.html",
     "static/css/main.2d8c69d1.chunk.css.map": "/React-Final-Kd/static/css/main.2d8c69d1.chunk.css.map",
-    "static/js/2.4128aec7.chunk.js.LICENSE.txt": "/React-Final-Kd/static/js/2.4128aec7.chunk.js.LICENSE.txt",
+    "static/js/2.b945a17f.chunk.js.LICENSE.txt": "/React-Final-Kd/static/js/2.b945a17f.chunk.js.LICENSE.txt",
     "static/media/button.84d9345b.svg": "/React-Final-Kd/static/media/button.84d9345b.svg",
     "static/media/Item.module.css": "/React-Final-Kd/static/media/checkmark.5fb74bca.svg",
     "static/media/delete.166de0e4.svg": "/React-Final-Kd/static/media/delete.166de0e4.svg",
@@ -28,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5e065889.js",
-    "static/js/2.4128aec7.chunk.js",
+    "static/js/2.b945a17f.chunk.js",
     "static/css/main.2d8c69d1.chunk.css",
-    "static/js/main.0b75c288.chunk.js"
+    "static/js/main.540bb56a.chunk.js"
   ]
 }
