@@ -14,3 +14,6 @@
 + **react-beautiful-dnd (drag-and-drop)**
 + **@material-ui**
 + **@octokit/rest**
+
+**Проект на React Hooks: [https://github.com/IlyaKd/ToDo-List-with-React-Hooks/](https://github.com/IlyaKd/ToDo-List-with-React-Hooks/)**
+**Проект на TypeScript: [https://github.com/IlyaKd/TypeScript-ToDo-List/](https://github.com/IlyaKd/TypeScript-ToDo-List/)**
